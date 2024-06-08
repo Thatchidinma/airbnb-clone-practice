@@ -2,6 +2,7 @@ import { Card } from './components/Card';
 import { Header } from './components/Header';
 import { Hero } from './components/Hero';
 import {data} from './components/data'
+import React from 'react';
 
 
 function App() {
